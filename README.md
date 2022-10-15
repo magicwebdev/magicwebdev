@@ -1,6 +1,5 @@
 <!-- ### Hi there 👋 -->
-<h3 align="center">Hi 👋, I'm Aleksandra</h1>
-<h4 align="center">A passionate frontend developer ❤️</h4>
+<h3 align="center">Hi 👋, I'm Aleksandra a frontend developer ❤️</h3>
 <h4 align="center">Languages and Tools:</h4>
 <p align="center"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
