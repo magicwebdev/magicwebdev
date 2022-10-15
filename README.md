@@ -39,4 +39,4 @@ Windows                  14 hrs 52 mins      ███████████�
 
  Last Updated on 15/10/2022 14:15:34 UTC
 <!--END_SECTION:waka-->
-[![codewars](https://www.codewars.com/users/magicwebdev/badges/large)](https://www.codewars.com/users/magicwebdev)   
+[![codewars](https://www.codewars.com/users/magicwebdev/badges/micro)](https://www.codewars.com/users/magicwebdev)   
