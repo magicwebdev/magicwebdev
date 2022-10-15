@@ -1,8 +1,7 @@
 <!-- ### Hi there 👋 -->
 <h3 align="center">Hi 👋, I'm Aleksandra</h1>
 <h4 align="center">A passionate frontend developer ❤️</h4>
-[![codewars](https://www.codewars.com/users/magicwebdev/badges/micro)](https://www.codewars.com/users/magicwebdev)
-
+<br>
 <h4 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -17,7 +16,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
-
+[![codewars](https://www.codewars.com/users/magicwebdev/badges/micro)](https://www.codewars.com/users/magicwebdev)
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
@@ -41,3 +40,4 @@ Windows                  14 hrs 52 mins      ███████████�
 
  Last Updated on 15/10/2022 14:15:34 UTC
 <!--END_SECTION:waka-->
+[![codewars](https://www.codewars.com/users/magicwebdev/badges/micro)](https://www.codewars.com/users/magicwebdev)
