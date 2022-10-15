@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![codewars](https://www.codewars.com/users/username/badges/micro)](https://www.codewars.com/users/magicwebdev)
+[![codewars](https://www.codewars.com/users/magicwebdev/badges/large)](https://www.codewars.com/users/magicwebdev)   
+[![codewars](https://www.codewars.com/users/magicwebdev/badges/micro)](https://www.codewars.com/users/magicwebdev)
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
