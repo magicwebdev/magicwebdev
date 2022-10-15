@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs at 08:40am IST
+    # Runs at 08:42am IST
     - cron: '30 18 * * *'
 
 jobs:
