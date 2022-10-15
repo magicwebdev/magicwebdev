@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 <h3 align="center">Hi 👋, I'm Aleksandra</h1>
 <h4 align="center">A passionate frontend developer ❤️</h4>
-<div align="center"> [![codewars](https://www.codewars.com/users/magicwebdev/badges/micro)](https://www.codewars.com/users/magicwebdev) </div>
+<p align="center"> [![codewars](https://www.codewars.com/users/magicwebdev/badges/micro)](https://www.codewars.com/users/magicwebdev) </p>
 
 <h4 align="center">Languages and Tools:</h3>
 <p align="center"> 
