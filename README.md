@@ -1,5 +1,6 @@
 <!-- ### Hi there 👋 -->
 <h3 align="center">Hi 👋, I'm Aleksandra a frontend developer ❤️</h3>
+<p style="text-align: center;">[![codewars](https://www.codewars.com/users/magicwebdev/badges/micro)](https://www.codewars.com/users/magicwebdev)  </p>
 <h4 align="center">Languages and Tools:</h4>
 <p align="center"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -40,4 +41,4 @@ Windows                  14 hrs 52 mins      ███████████�
 <!--END_SECTION:waka-->
 [![codewars](https://www.codewars.com/users/magicwebdev/badges/micro)](https://www.codewars.com/users/magicwebdev)   
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=magicwebdev&theme=react&radius=8&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=magicwebdev&theme=react-dark&radius=8&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
