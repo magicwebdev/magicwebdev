@@ -15,8 +15,6 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=magicwebdev&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
@@ -41,3 +39,5 @@ Windows                  14 hrs 52 mins      ███████████�
  Last Updated on 15/10/2022 18:50:21 UTC
 <!--END_SECTION:waka-->
 [![codewars](https://www.codewars.com/users/magicwebdev/badges/micro)](https://www.codewars.com/users/magicwebdev)   
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=magicwebdev&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
