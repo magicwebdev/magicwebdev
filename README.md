@@ -15,9 +15,6 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=magicwebdev&theme=prussian&hide_border=true)](https://git.io/streak-stats)
-Copy To Clipboard
-
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
