@@ -40,4 +40,4 @@ Windows                  14 hrs 52 mins      ███████████�
 <!--END_SECTION:waka-->
 [![codewars](https://www.codewars.com/users/magicwebdev/badges/micro)](https://www.codewars.com/users/magicwebdev)   
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=magicwebdev&theme=react-dark&radius=8&hide_border=true&title_color=#c9d1d9)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=magicwebdev&theme=react-dark&radius=8&hide_border=true&title_color=c9d1d9)](https://github.com/ashutosh00710/github-readme-activity-graph)
