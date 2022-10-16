@@ -1,5 +1,7 @@
-<!-- ### Hi there 👋 -->
-<h3 align="center">Hi 👋, I'm Aleksandra a frontend developer ❤️</h3>
+### Hi there 👋
+[![codewars](https://www.codewars.com/users/magicwebdev/badges/micro)](https://www.codewars.com/users/magicwebdev)  
+
+<!-- <h3 align="center">Hi 👋, I'm Aleksandra a frontend developer ❤️</h3>
 <h4 align="center">Languages and Tools:</h4>
 <p align="center"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -13,7 +15,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-</p>
+</p> -->
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
@@ -38,6 +40,5 @@ Windows                  12 hrs 44 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 
  Last Updated on 16/10/2022 06:07:14 UTC
 <!--END_SECTION:waka-->
-[![codewars](https://www.codewars.com/users/magicwebdev/badges/micro)](https://www.codewars.com/users/magicwebdev)   
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=magicwebdev&theme=react-dark&radius=8&hide_border=true&color=c9d1d9&hide_title=true&line=70a5fb&point=70a5fb)](https://github.com/ashutosh00710/github-readme-activity-graph)
