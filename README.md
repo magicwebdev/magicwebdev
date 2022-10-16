@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
-<h3 align="center">Hi 👋, I'm Aleksandra a frontend developer ❤️</h3>
-<p style="text-align: center;">[![codewars](https://www.codewars.com/users/magicwebdev/badges/micro)](https://www.codewars.com/users/magicwebdev)  </p>
+<h3 align="center">Hi 👋, I'm Aleksandra a frontend developer ❤️</h3> [![codewars](https://www.codewars.com/users/magicwebdev/badges/micro)](https://www.codewars.com/users/magicwebdev)
+
 <h4 align="center">Languages and Tools:</h4>
 <p align="center"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
