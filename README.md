@@ -1,8 +1,6 @@
 ### Hi 👋, welcome to my Github profile ❤️
 [![codewars](https://www.codewars.com/users/magicwebdev/badges/micro)](https://www.codewars.com/users/magicwebdev)  
 
-![WakaTime](metrics.plugin.wakatime.svg)
-
 <!-- <h3 align="center">Hi 👋, I'm Aleksandra a frontend developer ❤️</h3>
 <h4 align="center">Languages and Tools:</h4>
 <p align="center"> 
