@@ -1,6 +1,8 @@
 ### Hi 👋, welcome to my Github profile ❤️
 [![codewars](https://www.codewars.com/users/magicwebdev/badges/micro)](https://www.codewars.com/users/magicwebdev)  
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
 <!-- <h3 align="center">Hi 👋, I'm Aleksandra a frontend developer ❤️</h3>
 <h4 align="center">Languages and Tools:</h4>
 <p align="center"> 
