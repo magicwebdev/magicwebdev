@@ -1,10 +1,10 @@
 ### Hi 👋, welcome to my Github profile ❤️
 [![codewars](https://www.codewars.com/users/magicwebdev/badges/large)](https://www.codewars.com/users/magicwebdev)  
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=magicwebdev&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+<!-- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=magicwebdev&theme=dark)](https://github.com/KnlnKS/leetcode-stats) -->
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/magicwebdev?theme=nord)
-![Leetcode Stats](https://leetcard.jacoblin.cool/magicwebdev?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/magicwebdev?theme=nord&ext=heatmap)
+<!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/magicwebdev?ext=heatmap) -->
 
 <!-- <h3 align="center">Hi 👋, I'm Aleksandra a frontend developer ❤️</h3>
 <h4 align="center">Languages and Tools:</h4>
