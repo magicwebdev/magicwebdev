@@ -1,5 +1,5 @@
 ### My Github profile ⭐️
-[![codewars](https://www.codewars.com/users/magicwebdev/badges/micro)](https://www.codewars.com/users/magicwebdev)  
+<!-- [![codewars](https://www.codewars.com/users/magicwebdev/badges/micro)](https://www.codewars.com/users/magicwebdev) -->
 
 <!-- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=magicwebdev&theme=dark)](https://github.com/KnlnKS/leetcode-stats) -->
 
